@@ -143,7 +143,7 @@
 
 - Flow Chart![image](https://user-images.githubusercontent.com/57744586/222173269-3efdda78-5f48-48f8-8196-f5c48e539aed.png)
 
-- ERD![image](https://user-images.githubusercontent.com/57744586/222172914-9d9db926-e42f-4400-acd4-00994a96de97.png)
+- ERD![image](https://user-images.githubusercontent.com/44748142/222945650-7aed6d92-b060-4a7a-b809-8a5dcc061485.png)
 
 - 시스템 구조 다이어그램![image](https://user-images.githubusercontent.com/57744586/222172612-3e663052-d010-4103-a7d5-c7db9a0b2807.png)
 
